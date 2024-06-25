@@ -27,7 +27,7 @@
 - [Sleep(10)](SQL/sleep_10.txt)
 - [Sleep(15)](SQL/sleep_15.txt)
 - [Sleep(15) double quotes escaped](SQL/sleep_15_doublequotes_escaped.txt)
-- [DNS HTTP Lookups)](SQL/dns_http_lookups.txt)
+- [DNS HTTP Lookups](SQL/dns_http_lookups.txt)
 
 ## Encodings
 - [URL Characters](Encodings/URL_Characters.txt)
