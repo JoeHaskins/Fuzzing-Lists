@@ -1,0 +1,161 @@
+version() = version()
+@@version = @@version
+@@version_comment = @@version_comment
+@@version_compile_machine = @@version_compile_machine
+@@version_compile_os = @@version_compile_os
+current_setting('server_version') = current_setting('server_version')
+current_setting('server_version_num') = current_setting('server_version_num')
+pg_catalog.version() = pg_catalog.version()
+pg_catalog.current_setting('server_version') = pg_catalog.current_setting('server_version')
+pg_catalog.current_setting('server_version_num') = pg_catalog.current_setting('server_version_num')
+version() LIKE version()
+current_setting('server_version') LIKE current_setting('server_version')
+current_setting('server_version_num') LIKE current_setting('server_version_num')
+pg_catalog.version() LIKE pg_catalog.version()
+pg_catalog.current_setting('server_version') LIKE pg_catalog.current_setting('server_version')
+pg_catalog.current_setting('server_version_num') LIKE pg_catalog.current_setting('server_version_num')
+version() <> ''
+@@version <> ''
+@@version_comment <> ''
+@@version_compile_machine <> ''
+@@version_compile_os <> ''
+current_setting('server_version') <> ''
+current_setting('server_version_num') <> ''
+pg_catalog.version() <> ''
+pg_catalog.current_setting('server_version') <> ''
+pg_catalog.current_setting('server_version_num') <> ''
+version() IS NOT NULL
+@@version IS NOT NULL
+@@version_comment IS NOT NULL
+@@version_compile_machine IS NOT NULL
+@@version_compile_os IS NOT NULL
+current_setting('server_version') IS NOT NULL
+current_setting('server_version_num') IS NOT NULL
+pg_catalog.version() IS NOT NULL
+pg_catalog.current_setting('server_version') IS NOT NULL
+pg_catalog.current_setting('server_version_num') IS NOT NULL
+version() > ''
+@@version > ''
+@@version_comment > ''
+@@version_compile_machine > ''
+@@version_compile_os > ''
+current_setting('server_version') > ''
+current_setting('server_version_num') > ''
+pg_catalog.version() > ''
+pg_catalog.current_setting('server_version') > ''
+pg_catalog.current_setting('server_version_num') > ''
+version() < ''
+@@version < ''
+@@version_comment < ''
+@@version_compile_machine < ''
+@@version_compile_os < ''
+current_setting('server_version') < ''
+current_setting('server_version_num') < ''
+pg_catalog.version() < ''
+pg_catalog.current_setting('server_version') < ''
+pg_catalog.current_setting('server_version_num') < ''
+version() >= ''
+@@version >= ''
+@@version_comment >= ''
+@@version_compile_machine >= ''
+@@version_compile_os >= ''
+current_setting('server_version') >= ''
+current_setting('server_version_num') >= ''
+pg_catalog.version() >= ''
+pg_catalog.current_setting('server_version') >= ''
+pg_catalog.current_setting('server_version_num') >= ''
+version() <= ''
+@@version <= ''
+@@version_comment <= ''
+@@version_compile_machine <= ''
+@@version_compile_os <= ''
+current_setting('server_version') <= ''
+current_setting('server_version_num') <= ''
+pg_catalog.version() <= ''
+pg_catalog.current_setting('server_version') <= ''
+pg_catalog.current_setting('server_version_num') <= ''
+version() <> version()
+@@version <> @@version
+@@version_comment <> @@version_comment
+@@version_compile_machine <> @@version_compile_machine
+@@version_compile_os <> @@version_compile_os
+current_setting('server_version') <> current_setting('server_version')
+current_setting('server_version_num') <> current_setting('server_version_num')
+pg_catalog.version() <> pg_catalog.version()
+pg_catalog.current_setting('server_version') <> pg_catalog.current_setting('server_version')
+pg_catalog.current_setting('server_version_num') <> pg_catalog.current_setting('server_version_num')
+version() != version()
+@@version != @@version
+@@version_comment != @@version_comment
+@@version_compile_machine != @@version_compile_machine
+@@version_compile_os != @@version_compile_os
+current_setting('server_version') != current_setting('server_version')
+current_setting('server_version_num') != current_setting('server_version_num')
+pg_catalog.version() != pg_catalog.version()
+pg_catalog.current_setting('server_version') != pg_catalog.current_setting('server_version')
+pg_catalog.current_setting('server_version_num') != pg_catalog.current_setting('server_version_num')
+version() LIKE '5%'
+@@version LIKE '5%'
+@@version_comment LIKE '5%'
+@@version_compile_machine LIKE '5%'
+@@version_compile_os LIKE '5%'
+current_setting('server_version') LIKE '5%'
+current_setting('server_version_num') LIKE '5%'
+pg_catalog.version() LIKE '5%'
+pg_catalog.current_setting('server_version') LIKE '5%'
+pg_catalog.current_setting('server_version_num') LIKE '5%'
+version() NOT LIKE '5%'
+@@version NOT LIKE '5%'
+@@version_comment NOT LIKE '5%'
+@@version_compile_machine NOT LIKE '5%'
+@@version_compile_os NOT LIKE '5%'
+current_setting('server_version') NOT LIKE '5%'
+current_setting('server_version_num') NOT LIKE '5%'
+pg_catalog.version() NOT LIKE '5%'
+pg_catalog.current_setting('server_version') NOT LIKE '5%'
+pg_catalog.current_setting('server_version_num') NOT LIKE '5%'
+version() > '5%'
+@@version > '5%'
+@@version_comment > '5%'
+@@version_compile_machine > '5%'
+@@version_compile_os > '5%'
+current_setting('server_version') > '5%'
+current_setting('server_version_num') > '5%'
+pg_catalog.version() > '5%'
+pg_catalog.current_setting('server_version') > '5%'
+pg_catalog.current_setting('server_version_num') > '5%'
+version() < '5%'
+@@version < '5%'
+@@version_comment < '5%'
+@@version_compile_machine < '5%'
+@@version_compile_os < '5%'
+current_setting('server_version') < '5%'
+current_setting('server_version_num') < '5%'
+pg_catalog.version() < '5%'
+pg_catalog.current_setting('server_version') < '5%'
+pg_catalog.current_setting('server_version_num') < '5%'
+version() = '5%'
+@@version = '5%'
+@@version_comment = '5%'
+@@version_compile_machine = '5%'
+@@version_compile_os = '5%'
+current_setting('server_version') = '5%'
+current_setting('server_version_num') = '5%'
+pg_catalog.version() = '5%'
+pg_catalog.current_setting('server_version') = '5%'
+pg_catalog.current_setting('server_version_num') = '5%'
+version() = current_setting('server_version')
+@@version = current_setting('server_version')
+@@version_comment = current_setting('server_version')
+@@version_compile_machine = current_setting('server_version')
+@@version_compile_os = current_setting('server_version')
+version() = current_setting('server_version_num')
+@@version = current_setting('server_version_num')
+@@version_comment = current_setting('server_version_num')
+@@version_compile_machine = current_setting('server_version_num')
+@@version_compile_os = current_setting('server_version_num')
+current_setting('server_version') = current_setting('server_version_num')
+pg_catalog.version() = current_setting('server_version')
+pg_catalog.version() = current_setting('server_version_num')
+pg_catalog.current_setting('server_version') = current_setting('server_version_num')
+current_setting('server_version') = pg_catalog.current_setting('server_version_num')
