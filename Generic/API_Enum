@@ -142,6 +142,8 @@ apidocs
 api-docs
 apidocs/swagger.json
 api-docs/swagger.json
+api-docs?url=/..../services/rest/..../swagger.json#/
+api-docs?url=/..../v1/..../swagger.json
 archaius
 auditevents
 autoconfig
@@ -170,7 +172,12 @@ debug/query_plans
 debug/stopper
 debug/vschema
 docs
+docs/swagger-ui/index.html?url=/assets/SubscriberSearch.yaml
 dump
+dvc-sales/
+dvic/api/swagger.json
+eds-batch-service/v3/api-docs
+eds-process-service/docs/
 elmah.axd
 env
 env/home
@@ -182,6 +189,7 @@ env/pwd
 env/tz
 error
 explorer
+explorer/swagger.json
 features
 flyway
 gateway/routes
@@ -201,8 +209,10 @@ graphql/schema.yaml
 graphql-explorer
 health
 heapdump
+help
 info
 jolokia
+knime/swagger-ui.html
 liquibase
 list
 logfile
@@ -257,13 +267,19 @@ openapi-resources
 openapi-ui.html
 ping
 playground
+profile-b2c/v3/api-docs/
+public-swagger.json
+qa/ads-pacing-counter-api/swagger-ui/
 quartz
+report/documentation/index.html
 scheduledtasks
 static/api/openapi.json
 static/api/openapi.yaml
 static/api/swagger.json
 static/api/swagger.yaml
 subscriptions
+svc/api/api-docs?url=/svc/api/swagger.json
+svc/api/swagger.json
 swagger
 swagger.json
 swagger.yaml
@@ -280,6 +296,7 @@ swagger/v1/swagger.yaml
 swagger/v2/api-docs
 swagger/v2/swagger.json
 swagger/v2/swagger.yaml
+swagger-private-tax.yaml
 swagger-resources
 swagger-ui
 swagger-ui.html
@@ -330,7 +347,9 @@ v2/graphql-explorer
 v2/openapi-docs
 v2/playground
 v2/subscriptions
+v2/swagger.json
 v3/altair
+v3/api-docs/
 v3/explorer
 v3/graphiql
 v3/graphiql.css
@@ -353,4 +372,3 @@ wp-json/
 wp-json/wp/v2/posts
 wp-json/wp/v2/users
 xmlrpc.php
-
